@@ -14,4 +14,3 @@
   docker_compose:
     project_src: "{{ deployment_path }}"
     build: yes
-    debug: yes
